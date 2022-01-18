@@ -6,7 +6,7 @@
 /NAME:"UE4Editor-PoopooMaster.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\PoopooMasterEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\PoopooMaster.cpp.obj"
-"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\Default.rc2.res"
-/OUT:"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\UE4Editor-PoopooMaster.lib"
+"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\PoopooMasterEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\PoopooMaster.cpp.obj"
+"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\Default.rc2.res"
+/OUT:"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\UE4Editor-PoopooMaster.lib"

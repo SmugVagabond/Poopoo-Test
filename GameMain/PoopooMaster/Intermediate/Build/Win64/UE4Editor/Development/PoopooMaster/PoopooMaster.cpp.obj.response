@@ -29,8 +29,8 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Source
-/I C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Source\PoopooMaster
+/I C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Source
+/I C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Source\PoopooMaster
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -597,12 +597,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\PoopooMasterEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\PoopooMasterEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\PoopooMasterEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Source\PoopooMaster\PoopooMaster.cpp"
-/FI"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\Definitions.PoopooMaster.h"
-/Fo"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\PoopooMaster.cpp.obj"
+/FI"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\PoopooMasterEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\PoopooMasterEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\PoopooMasterEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Source\PoopooMaster\PoopooMaster.cpp"
+/FI"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\Definitions.PoopooMaster.h"
+/Fo"C:\Users\Blaise\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\PoopooMaster.cpp.obj"
 /TP
 /GR-
 /W4
